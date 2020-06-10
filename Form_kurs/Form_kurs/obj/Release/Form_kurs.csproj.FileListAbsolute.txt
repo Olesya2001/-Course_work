@@ -1,0 +1,22 @@
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.About.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.frmmain.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.blank.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.Properties.Resources.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.Resource1.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.ClosingText.en-US.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.ClosingText.ru-Ru.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.frmmain.en-US.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.frmmain.ru-RU.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Form_kurs.blank.ru-RU.resources
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\bin\Release\Notepad C#.exe.config
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\bin\Release\Notepad C#.exe
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\bin\Release\Notepad C#.pdb
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\bin\Release\ru-RU\Notepad C#.resources.dll
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\bin\Release\en-US\Notepad C#.resources.dll
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\ru-RU\Notepad C#.resources.dll
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\en-US\Notepad C#.resources.dll
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Notepad C#.exe
+C:\Users\Acer\source\repos\Form_kurs\Form_kurs\obj\Release\Notepad C#.pdb

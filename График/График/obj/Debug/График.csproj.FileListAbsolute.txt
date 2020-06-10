@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\График\График\bin\Debug\График.exe.config
+C:\Users\Acer\source\repos\График\График\bin\Debug\График.exe
+C:\Users\Acer\source\repos\График\График\bin\Debug\График.pdb
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.Form1.resources
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.exe
+C:\Users\Acer\source\repos\График\График\obj\Debug\График.pdb
